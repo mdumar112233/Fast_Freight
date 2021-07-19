@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          my name is umar faruk 
         </a>
         <h1>react</h1>
         <p>Ashik</p>
