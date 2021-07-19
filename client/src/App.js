@@ -18,6 +18,8 @@ function App() {
           Learn React
 
           my name is umar faruk 
+          my name is umar faruk 
+          my name is umar faruk 
         </a>
         <h1>react</h1>
         <p>Ashik</p>
